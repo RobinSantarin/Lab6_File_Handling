@@ -1,0 +1,5 @@
+Student: Santarin
+Student ID: TUPM-26-1865
+Seed digit: 5
+ID sum: 28
+Verification value: 229

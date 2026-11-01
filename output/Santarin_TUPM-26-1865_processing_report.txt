@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+-----------------------------------------
+Last Name: Santarin
+Student ID: TUPM-26-1865
+Seed Digit: 5
+ID Sum: 28
+Verification Value: 229
+Dataset Sample Size: 78
+Valid Records: 78
+Average Global Active Power: 3.973
+JSON File: Santarin_TUPM-26-1865_record.json
+Backup File: Santarin_TUPM-26-1865_record.csv
